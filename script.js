@@ -1,4 +1,4 @@
-/your JS code here. If required.
+//your JS code here. If required.
 // Get the required elements from the DOM
 const textInput = document.getElementById('text');
 const delayInput = document.getElementById('delay');
